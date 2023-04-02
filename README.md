@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-###Something about me, using template
+Something about me, using template
 
 
 - 🔭 I’m currently working on nothing
@@ -12,4 +11,4 @@
 - 📫 How to reach me: xadii8944@gmail.com
 - 😄 Pronouns: there are only two genders
 - ⚡ Fun fact: Do kąd nocą tupta jeż
--->
+
